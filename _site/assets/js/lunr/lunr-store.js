@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/first-post/",
         "teaser": null
+      },{
+        "title": "Second Post",
+        "excerpt":"node.js를 왜 사용할까? 이 글은 node.js 교과서 개정2판을 참고하여 작성하였다. 노드는 서버 애플리케이션을 실행하는데 많이 사용된다. 왜 노드를 사용하여 서버를 구축할까? 노드는 자바스크립트 런타임이다. 즉, 자바스크립트 프로그램을 컴퓨터에서 실행할 수 있다. 이 말은 웹 브라우저를 하나의 언어로 개발할 수 있다는 것이다. 자바스크립트 코드는 노드가 알아서 V8과 libuv를 연결해준다. 노드는 이벤트...","categories": [],
+        "tags": [],
+        "url": "/second-post/",
+        "teaser": null
       }]
