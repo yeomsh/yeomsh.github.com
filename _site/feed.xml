@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-24T22:46:05+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Our summer</title><subtitle>To make shine tomorrow</subtitle><author><name>Yeomsh</name></author><entry><title type="html">First Post</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="First Post" /><published>2021-04-24T00:00:00+09:00</published><updated>2021-04-24T00:00:00+09:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/">&lt;p&gt;생각정리&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-24T23:27:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Our summer</title><subtitle>To make shine tomorrow</subtitle><author><name>Yeomsh</name></author><entry><title type="html">First Post</title><link href="http://localhost:4000/first-post/" rel="alternate" type="text/html" title="First Post" /><published>2021-04-24T00:00:00+09:00</published><updated>2021-04-24T00:00:00+09:00</updated><id>http://localhost:4000/first-post</id><content type="html" xml:base="http://localhost:4000/first-post/">&lt;p&gt;생각정리&lt;/p&gt;
 
 &lt;p&gt;깃블로그 시작과 함께 앞으로의 다짐을 적어보려고 한다.&lt;/p&gt;
 
@@ -29,4 +29,14 @@
   &lt;p&gt;프로젝트&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;이전부터 계속 공부하고자 했던 node.js부터 공부를 시작할려고 한다. node.js는 책을 활용하여 클론 코딩을 하며, 현재 개발 중인 앱의 서버를 php에서 node.js로 이전하려고 한다. 왜 이전하려고 하는지와 이전 계획은 천천히 블로그 글에 업로드할 예정이다. 또한 블록체인 논문을 작성하며 Java로 구현했던 프로젝트를 이더리움 솔리디티를 이용하여 구현해보고 싶다. 그 외에도 카바카를 활용한 프로젝트 등 새롭게 진행하고픈 프로젝트가 생긴다면, 진행해보고자 한다.&lt;/p&gt;</content><author><name>Yeomsh</name></author><summary type="html">생각정리</summary></entry></feed>
+&lt;p&gt;이전부터 계속 공부하고자 했던 node.js부터 공부를 시작할려고 한다. node.js는 책을 활용하여 클론 코딩을 하며, 현재 개발 중인 앱의 서버를 php에서 node.js로 이전하려고 한다. 왜 이전하려고 하는지와 이전 계획은 천천히 블로그 글에 업로드할 예정이다. 또한 블록체인 논문을 작성하며 Java로 구현했던 프로젝트를 이더리움 솔리디티를 이용하여 구현해보고 싶다. 그 외에도 카바카를 활용한 프로젝트 등 새롭게 진행하고픈 프로젝트가 생긴다면, 진행해보고자 한다.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;layout: simple
+title: “블로그 시작에 앞서”
+date: 2021-04-24
+Categorys:
+    - Etc
+Tags:
+    - Blog
+—&lt;/p&gt;</content><author><name>Yeomsh</name></author><summary type="html">생각정리</summary></entry></feed>
