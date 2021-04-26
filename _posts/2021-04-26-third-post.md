@@ -8,7 +8,7 @@ Read Eval Print Loop로, 입력한 코드를 read, eval(해석), print(결과반
 
 ex)
 > const str = 'Hello';
->console.log(str);
+> console.log(str);
 
 > 입력한 코드르 읽고 해석한 뒤 print -> 다음 입력을 기다림(loop)
 
